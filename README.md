@@ -15,4 +15,4 @@ Este perfil foi criando para adicionar todos meus projeto
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breadcrumbsnah_rj)](https://github.com/nah-rj)
 
-![nah-rj GitHub stats](https://github-readme-stats.vercel.app/api?username=nah-rj&show_icons=true&theme=dark)
+![nah-rj GitHub stats](https://github-readme-stats.vercel.app/api?username=nah-rj&show_icons=true&theme=dracula)
